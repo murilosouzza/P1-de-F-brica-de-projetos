@@ -1,3 +1,11 @@
+# Aluno:
+Murilo Santos Souza
+# RA:
+2038823
+# Curso: 
+ADS, Noturno, Turma C
+
+
 # P1-de-F-brica-de-projetos
 # Introdução e motivação: 
 Nossa equipe criou um projeto com a intenção de automatizar as vendas "em cadereneta", ou seja, anteriormente, as vendas eram todas marcadas em papel, gerando dessa maneira defasagem  do valor no final do mês, o propietário da empresa nos contatou com o objetivo de zerar essa perca de lucro, ele tinha como objetivo a completa automatização desse progama. Optamos pela criação de um sistema funcional e de fácil uso, já que de acordo com o nosso steakholder, seus clientes e até ele próprio "Não tinham tanta experiêcnia com isso", olhando para tal informação, realizamos uma reunião e discutimos o que poderíamos simplificar, usamos muito o prícnipio de affordance, e usamos também prototipagens rápidas para coletas de feedbacks do steakholder.
@@ -36,7 +44,16 @@ A área de cadastro de usuários seguiu com a cor de azul, porém um pouco mais 
 | *Março* | Análise da Interfocus, Apresentação da Empresa, Apresentação do Projeto, Relatório Parcial. |
 | *Abril* | Finalização do Desenvolvimento dos objetivos e Início da criação do Protótipo de Interface. |
 | *Maio* | Finalização do Protótipo de Interface e Início do Desenvolvimento da Apresentação. |
-| *Junho* | Relatório Final, Pitch-Apresentaçã
+| *Junho* | Relatório Final, Pitch-Apresentação
 
 # Conclusão: percepções e desafios individuais
+- O desenvolvimento deste projeto representou uma experiência enriquecedora, tanto técnica quanto pessoal. Desde o início, compreendemos que o objetivo ia além da simples criação de um sistema: tratava-se de modernizar uma prática tradicional, buscando eliminar prejuízos e facilitar o controle das vendas.
+
+- Diante do perfil dos usuários, com pouca familiaridade tecnológica, enfrentamos o desafio de desenvolver uma solução acessível, intuitiva e eficiente. A partir de reuniões e testes com o stakeholder, aplicamos princípios de usabilidade, como affordance, e realizamos prototipagens rápidas para adequações constantes.
+
+- Esse processo exigiu da equipe não apenas domínio técnico, mas também empatia, escuta ativa e capacidade de adaptação. Como resultado, entregamos um sistema funcional que atende às necessidades do cliente, promovendo organização, controle e redução de perdas.
+
+- Houveram desafios em lidar com o grupo, mas no geral todos foram resolvidos com diálogo, acertamos entre nós o que não estava agradando e debatemos o que poderíamos melhorar! Obtivemos ons resultados e ficamos felizes com o desfecho da nossa conversa.
+
+- Quanto a minha autoavaliação, foi desafiador trabalhar em grupo, principalmente com pessoas que eu mal conhecia, mas foi divertido, conversar, debater ideias diferentes, entender outros pontos de vista. muito foi aprendido ao longo dos dias, mas o principal foi a minha melhoria em trabalhar em grupo. É de grande probabilidade que algo que eu tenha feito ou deixei de fazer desagradou alguém, mas me esforcei ao máximo para tratar todos de maneira empática e selecionando com cuidado palavras para não causar desconforto no outro.
 
